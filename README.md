@@ -17,3 +17,12 @@ Workshop 3
 
 https://colab.research.google.com/drive/1R_BM7q-mA_tZtvbG7PAkA6k-DPUlfwvF
 
+Workshop 4 
+
+https://colab.research.google.com/drive/1Lv5C9xiTDCdBvXptKgpBhFYkJMBcViGM#scrollTo=4HznLiq2DSt9
+
+Workshop 5
+
+https://colab.research.google.com/drive/1n8j9bl2exQSqkyHAzYQ2HsxRq4hD9Sx-
+
+
